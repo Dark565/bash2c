@@ -2,7 +2,7 @@
 
 ## Purpose
 This is a simple transpiler for a subset of Bash to C.  
-It intends to output C code that is as self reliant as possible to minimize the need of running external commands.
+It aims to generate C code that is as self-seliant as possible to minimize the need to run external commands.
 
 ## Usage
 ```sh
